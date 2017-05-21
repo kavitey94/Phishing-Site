@@ -1,0 +1,49 @@
+.textbox {font-family: Tahoma; font-size: xx-small; color: #339900; }
+.lable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	color: #339900;
+	font-weight: bold;
+}
+.Title {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: small; color: #009900; }
+.lableErr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	color: #FF6633;
+}
+.usrAddlbl {
+	font-family: Tahoma;
+	font-size: xx-small;
+	color: #000066;
+	font-weight: bold;
+}
+
+.requered{
+	font-family: Tahoma;
+	font-size: xx-small;
+	color: #FF0000;
+	font-weight: bold;
+}
+.example{
+	font-family: Tahoma;
+	font-size: 9px;
+	color: #9D9FBD;
+	font-weight: normal;
+}
+.usrAddtextbox {
+font-family: Tahoma; font-size: xx-small; color: #003399;
+}
+.error-msgs{
+	color:#FF6633;
+	display: block;
+	float:left;
+	clear:left;
+	font-size:12px;
+	padding-bottom:5px;
+}
+.loading{
+	float:left;
+	height: 15px;
+	width: 128px;
+	display:none;	
+}
